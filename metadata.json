@@ -1,0 +1,6 @@
+{
+  "name": "Weight Tracker",
+  "description": "A modern and intuitive weight tracker with detailed logging, weekly charts, CSV export, dark mode, custom themes, and calendar/cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
